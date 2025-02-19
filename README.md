@@ -48,7 +48,7 @@
     
 ## 🎵 Playlist:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ub97lfve8ssp2i5mqxlqpsc6e&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)      
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ub97lfve8ssp2i5mqxlqpsc6e&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)      
 
 ## 📚 Languages:
 <p align="left">
@@ -81,7 +81,7 @@
       
 ## 📊 Github Stats:
 
-![Metrics](https://metrics.lecoq.io/Issa2001?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
+![Metrics](https://metrics.lecoq.io/MythicIssa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
       
 ## 🔰 Dev Quote:
 
