@@ -12,26 +12,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Issa2001/Issa2001.git">
-    <img src="https://komarev.com/ghpvc/?username=Issa2001&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
+  <a href="https://github.com/MythicIssa/MythicIssa.git">
+    <img src="https://komarev.com/ghpvc/?username=MythicIssa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
 
   </a>
-  <a href="https://github.com/Issa2001?tab=stars">
-    <img src="https://img.shields.io/github/stars/Issa2001?color=ff69b4&label=Stargazers&style=flat">
+  <a href="https://github.com/MythicIssa?tab=stars">
+    <img src="https://img.shields.io/github/stars/MythicIssa?color=ff69b4&label=Stargazers&style=flat">
 
   </a>
-  <a href="https://github.com/https://github.com/Issa2001?tab=followers">
-    <img src="https://img.shields.io/github/followers/Issa2001?color=ff69b4&label=Followers&style=flat">
+  <a href="https://github.com/https://github.com/MythicIssa?tab=followers">
+    <img src="https://img.shields.io/github/followers/MythicIssa?color=ff69b4&label=Followers&style=flat">
 
 ## 🙂 About Me:
 
-- 🌠 ![Age](https://img.shields.io/badge/age-22-green)
+- 🌠 ![Age](https://img.shields.io/badge/age-23-green)
 
 - 🎋 Just trying ^_^
 
 - 🏗 I'm currently working with [`Sapphire Inc.`](https://github.com/Sapphire2022)
 
-- 🚀 In love with WhatsApp bots.
+- 🚀 In love with WhatsApp automation.
 
 - ⭐ Open & Private source.
 
@@ -43,7 +43,7 @@
 <p align="left">      
 <a href="https://instagram.com/mythic.issa" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram" height="70" width="70" /></a>
 <a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="gmail" height="70" width="70" /></a>
-<a href="https://t.me/Issamoha2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="telegram" height="70" width="70" /></a>
+<a href="https://t.me/Sheldrick2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="telegram" height="70" width="70" /></a>
 </p>
     
 ## 🎵 Playlist:
