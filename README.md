@@ -30,7 +30,7 @@
 
 - 🌠 ![Age](https://img.shields.io/badge/age-23-green)
 - 🎋 Just trying ^_^
-- 🏗 I'm currently working with [`Sapphire Inc.`](https://github.com/Sapphire2022) & [`Ollie Bots`](https://github.com/Ollie-Bots)
+- 🏗 I'm currently working with [`Sapphire Inc`](https://github.com/Sapphire2022) & [`Ollie Bots`](https://github.com/Ollie-Bots)
 - 🚀 In love with WhatsApp automation.
 - ⭐ Open & Private source.
 - 👥 I'm looking to collaborate with anyone on WhatsApp bots.
