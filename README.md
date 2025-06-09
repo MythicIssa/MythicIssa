@@ -2,53 +2,50 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=Konichiwa%F0%9F%91%8B.....;Welcome+to+my+GitHub%F0%9F%98%8D"
+        src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=30&color=1B961A&lines=こんにちは%F0%9F%91%8B.....;Welcome+to+my+GitHub%F0%9F%98%8D"
             alt="Typing SVG"
         />
     </a>
 </p>
-    <p align="center"><img src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg"/>
-    </br><code>🦈 import { focus, life } from 'life-script' 🦈</code>
+
+<p align="center">
+    <img src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg" alt="Space Wallpaper" />
+    <br />
+    <code> import { focus, life } from 'life-script' </code>
 </p>
 
 <p align="center">
   <a href="https://github.com/MythicIssa/MythicIssa.git">
-    <img src="https://komarev.com/ghpvc/?username=MythicIssa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
-
+    <img src="https://komarev.com/ghpvc/?username=MythicIssa&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/MythicIssa?tab=stars">
-    <img src="https://img.shields.io/github/stars/MythicIssa?color=ff69b4&label=Stargazers&style=flat">
-
+    <img src="https://img.shields.io/github/stars/MythicIssa?color=ff69b4&label=Stargazers&style=flat" alt="GitHub Stars" />
   </a>
-  <a href="https://github.com/https://github.com/MythicIssa?tab=followers">
-    <img src="https://img.shields.io/github/followers/MythicIssa?color=ff69b4&label=Followers&style=flat">
+  <a href="https://github.com/MythicIssa?tab=followers">
+    <img src="https://img.shields.io/github/followers/MythicIssa?color=ff69b4&label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+</p>
 
 ## 🙂 About Me:
 
 - 🌠 ![Age](https://img.shields.io/badge/age-23-green)
-
 - 🎋 Just trying ^_^
-
-- 🏗 I'm currently working with [`Sapphire Inc.`](https://github.com/Sapphire2022)
-
+- 🏗 I'm currently working with [`Sapphire Inc.`](https://github.com/Sapphire2022) & [`Ollie Bots`](https://github.com/Ollie-Bots)
 - 🚀 In love with WhatsApp automation.
-
 - ⭐ Open & Private source.
-
-- 👥 I'm looking to collaborate with anyone on WhatsApp bots. 
-
+- 👥 I'm looking to collaborate with anyone on WhatsApp bots.
 - 👑 Founder of `Sapphire Inc`
       
 ## 📬 Contact Me:     
 <p align="left">      
-<a href="https://instagram.com/mythic.issa" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram" height="70" width="70" /></a>
-<a href="mailto:Issamoha020@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="gmail" height="70" width="70" /></a>
-<a href="https://t.me/Sheldrick2001" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="telegram" height="70" width="70" /></a>
+<a href="https://instagram.com/mythic.issa" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram" height="70" width="70" /></a>
+<a href="mailto:Issamoha020@gmail.com" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="gmail" height="70" width="70" /></a>
+<a href="https://t.me/mythicissa" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-png/telegram-chat-message-mobile-send-file-smartphone-talk-16.png" alt="telegram" height="70" width="70" /></a>
 </p>
     
 ## 🎵 Playlist:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ub97lfve8ssp2i5mqxlqpsc6e&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)      
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ub97lfve8ssp2i5mqxlqpsc6e&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://open.spotify.com/user/ub97lfve8ssp2i5mqxlqpsc6e)      
 
 ## 📚 Languages:
 <p align="left">
@@ -68,7 +65,7 @@
 <a href="https://code.npmjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="70" height="70"/> </a>      
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="70" height="70"/> </a>
-<a href="https://www.git.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="70" height="70"/> </a>
+<a href="https://www.git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="70" height="70"/> </a>
 </p>      
     
 ## 📡 Servers & Hosts:
@@ -79,11 +76,12 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> </a>    
 </p>  
       
-## 📊 Github Stats:
+## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/MythicIssa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FNairobi)            
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicIssa&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
       
 ## 🔰 Dev Quote:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)      
-      
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
