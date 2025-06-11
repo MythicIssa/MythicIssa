@@ -59,9 +59,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/> </a>
-<a href="https://www.npmjs.com/package/quick.db" target="_blank"> 
-  <img src="https://user-images.githubusercontent.com/68235364/191689052-0eaa49f7-3b77-4ae4-a9f7-f387d1fa5dc0.png" alt="quick.db" width="70" height="70"/> 
-</a>
 </p>   
     
 ## 🛠️ Tools:
