@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://images.wallpapersden.com/image/download/dreaming-of-space-while-looking-at-shooting-stars_bWlpaW6UmZqaraWkpJRnamtlrWZrZWU.jpg" alt="Space Wallpaper" />
+    <img src="https://i.ibb.co/kgwspqft/shooting-star.jpg" alt="lone-wolf-sigma" border="0">
     <br />
     <code> import { focus, life } from 'life-script' </code>
 </p>
