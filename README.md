@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/rGhTgLHD/shooting-star.jpg" alt="lone-wolf-sigma" border="0">
+    <img src="https://i.ibb.co/JRDLZpc8/shooting-star.png" alt="shooting-star" border="0">
     <br />
     <code> import { focus, life } from 'life-script' </code>
 </p>
