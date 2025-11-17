@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/kgwspqft/shooting-star.jpg" alt="lone-wolf-sigma" border="0">
+    <img src="https://i.ibb.co/rGhTgLHD/shooting-star.jpg" alt="lone-wolf-sigma" border="0">
     <br />
     <code> import { focus, life } from 'life-script' </code>
 </p>
@@ -28,7 +28,7 @@
 
 ## 🙂 About Me:
 
-- 🌠 ![Age](https://img.shields.io/badge/age-23-green)
+- 🌠 ![Age](https://img.shields.io/badge/age-24-green)
 - 🎋 Just trying ^_^
 - 🏗 I'm currently working with [`Sapphire Inc`](https://github.com/SapphireInc2025) & [`Ollie Bots`](https://github.com/Ollie-Bots)
 - 🚀 In love with WhatsApp automation.
@@ -84,6 +84,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
       
-## 🔰 Dev Quote:
+## 🔰 Random Dev Quote:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
