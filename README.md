@@ -80,11 +80,9 @@
       
 ## 📊 GitHub Stats
 
-![Metrics](https://github.com/MythicIssa/MythicIssa/blob/main/github-metrics.svg)
+![GitHub Stats](https://github-readme-stats-one-wine-72.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=MythicIssa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-one-wine-72.vercel.app/api/top-langs/?username=MythicIssa&layout=compact&theme=radical)
       
 ## 🔰 Random Dev Quote:
 
