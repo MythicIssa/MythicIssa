@@ -80,9 +80,9 @@
       
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-one-wine-72.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MythicIssa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-one-wine-72.vercel.app/api/top-langs/?username=MythicIssa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicIssa&layout=compact&theme=radical)
       
 ## 🔰 Random Dev Quote:
 
