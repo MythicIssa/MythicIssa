@@ -63,7 +63,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="60" title="QuickDB"/>
 </p>
 
 ---
